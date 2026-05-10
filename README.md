@@ -1,5 +1,3 @@
-# TP53-Variant-Expression-and-AI-Interpretation
-
 # TP53 Integrated Genomics and AI Pipeline
 
 ## Overview
